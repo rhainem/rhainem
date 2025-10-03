@@ -21,13 +21,6 @@ I'm a full-stack web developer. I design and build clean, fast web apps with a s
 
 ---
 
-## Currently learning
-- **React** — hooks/context patterns, performance, accessibility  
-- **Node.js** — Express APIs, auth, env handling, tests with Vitest  
-- **TypeScript** — stricter types, generics, API typings
-
----
-
 ## Selected experience
 
 ### Dev Academy — Group projects (team-based, agile)
