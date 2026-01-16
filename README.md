@@ -24,10 +24,10 @@ I design and build clean, fast web apps with a strong UI/UX focus, then back the
 ## Selected experience
 
 ### Web Design & Software Development
-- Designed and delivered **responsive**, **accessible web interfaces** with a strong focus on **usability** and **visual hierarchy**.
+- Designed and delivered responsive, accessible **web interfaces** with a strong focus on usability* and visual hierarchy.
 - Built and maintained the systems behind those interfaces, including **server logic**, **data models** and **integrations**.
-- **Owned projects** end-to-end, from **initial concept and design** through **development**, **testing** and **deployment**.
-- Acted as a bridge between design, product, and engineering to reduce friction and **enable delivery**.
+- Owned projects end-to-end, from initial **concept** and **design** through **development**, **testing** and **deployment**.
+- Acted as a bridge between design, product, and engineering to reduce friction and enable delivery.
 - **Stack:** React, TypeScript, Vite, Node/Express, PostgreSQL/SQLite, Knex, Auth (Auth0), Git/GitHub.
 <!-- - **Links:** [Client repo](#) · [Server repo](#) · [Demo](#) · [Notable PR](#) -->
 
