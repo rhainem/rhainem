@@ -1,5 +1,5 @@
 ## Hi, I'm Rhaine
-I'm a full-stack web developer. I design and build clean, fast web apps with a strong UI/UX focus, then back them with the brand assets and campaigns they need to perform. My background spans 8+ years across design and marketing (EDMs, social ads, web banners/heroes) and, more recently, full-stack JavaScript.
+I design and build clean, fast web apps with a strong UI/UX focus, then back them with the brand assets and campaigns they need to perform. My background spans 8+ years across design and marketing (EDMs, social ads, web banners/heroes) and, more recently, full-stack JavaScript.
 
 ---
 
