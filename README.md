@@ -23,30 +23,26 @@ I design and build clean, fast web apps with a strong UI/UX focus, then back the
 
 ## Selected experience
 
-### Dev Academy — Group projects (team-based, agile)
-- **Role rotation:** moved from UI to the technical track so teammates could build UI skills; supported design to unblock the team.
-- **What I owned:** REST API design, database schema & migrations (Knex), server routes/controllers (Node/Express), and live-data integrations.
-- **Quality:** TDD with Vitest where practical; manual QA with Postman/Thunder Client; accessibility checks and cross-browser testing.
-- **Outcome:** clear ownership on the backend, teammates grew UI confidence, and we delivered our MVPs as planned.
+### Web Design & Software Development
+- Designed and delivered **responsive**, **accessible web interfaces** with a strong focus on **usability** and **visual hierarchy**.
+- Built and maintained the systems behind those interfaces, including **server logic**, **data models** and **integrations**.
+- **Owned projects** end-to-end, from **initial concept and design** through **development**, **testing** and **deployment**.
+- Acted as a bridge between design, product, and engineering to reduce friction and **enable delivery**.
 - **Stack:** React, TypeScript, Vite, Node/Express, PostgreSQL/SQLite, Knex, Auth (Auth0), Git/GitHub.
 <!-- - **Links:** [Client repo](#) · [Server repo](#) · [Demo](#) · [Notable PR](#) -->
 
-### Design & marketing work (prior roles & freelance)
-- Ran complex **Meta ad campaigns** (carousel/video/single image) and designed **EDMs** end-to-end for large subscriber lists.
-- Produced **web heroes, banners, and social tiles** at scale (incl. monthly rollovers).
-- Created **print collateral** (posters, in-store promos) and handled **product/event photography**.
-
----
-
-## Licences & certifications
-
-- Google Digital Academy — *AI-Powered Shopping Ads; Conversion Optimisation* (Apr 2025)
+### Design & Marketing
+- Led end-to-end **Meta Ad Campaigns**, including planning, asset direction, deployment, budgeting and optimisation.
+- Led end-to-end email marketing (EDMs), including design, build, QA, deployment, and performance reporting for large subscriber lists.
+- Delivered **web heroes**, **banners**, and **social assets** at scale, coordinating production for recurring monthly rollovers.
+- Created **print collateral** from concept through production.
+- Produced **product** & **event photography**, including **post-production**.
 
 ---
 
 ## How I like to work
 
-Straightforward briefs, fast feedback loops, accessible UI, small reusable components, and maintainable code. I write things down, automate the boring bits, and keep designs consistent.
+Straightforward briefs, fast feedback loops, accessible user interfaces, small reusable components, and maintainable code. I automate for ease where it adds value and keep designs consistent across systems.
 
 ---
 
